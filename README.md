@@ -1,5 +1,7 @@
 ### Explanation of the Code:
 
+![SM4SKjvXpRkRNa8z9tcUZW](https://github.com/user-attachments/assets/471f6400-4b1c-4ab6-977b-171cd89ad2c1)
+
 This Perl script `remote-ssh-access` simplifies managing SSH connections by allowing the creation of shortcuts that automate SSH client commands. It enables users to create SSH shortcuts via symbolic and hard links, storing various SSH options like user, host, port, key, and command in a shortcut file.
 
 #### Key Components of the Script:
